@@ -1,0 +1,15 @@
+D:\programs\visual basic\series2\bin\Debug\net6.0\series2.exe
+D:\programs\visual basic\series2\bin\Debug\net6.0\series2.deps.json
+D:\programs\visual basic\series2\bin\Debug\net6.0\series2.runtimeconfig.json
+D:\programs\visual basic\series2\bin\Debug\net6.0\series2.dll
+D:\programs\visual basic\series2\bin\Debug\net6.0\series2.pdb
+D:\programs\visual basic\series2\obj\Debug\net6.0\series2.vbproj.AssemblyReference.cache
+D:\programs\visual basic\series2\obj\Debug\net6.0\series2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\series2\obj\Debug\net6.0\series2.AssemblyInfoInputs.cache
+D:\programs\visual basic\series2\obj\Debug\net6.0\series2.AssemblyInfo.vb
+D:\programs\visual basic\series2\obj\Debug\net6.0\series2.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\series2\obj\Debug\net6.0\series2.dll
+D:\programs\visual basic\series2\obj\Debug\net6.0\refint\series2.dll
+D:\programs\visual basic\series2\obj\Debug\net6.0\series2.pdb
+D:\programs\visual basic\series2\obj\Debug\net6.0\series2.genruntimeconfig.cache
+D:\programs\visual basic\series2\obj\Debug\net6.0\ref\series2.dll

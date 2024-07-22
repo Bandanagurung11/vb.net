@@ -1,0 +1,15 @@
+D:\programs\visual basic\odd or even\bin\Debug\net6.0\odd or even.exe
+D:\programs\visual basic\odd or even\bin\Debug\net6.0\odd or even.deps.json
+D:\programs\visual basic\odd or even\bin\Debug\net6.0\odd or even.runtimeconfig.json
+D:\programs\visual basic\odd or even\bin\Debug\net6.0\odd or even.dll
+D:\programs\visual basic\odd or even\bin\Debug\net6.0\odd or even.pdb
+D:\programs\visual basic\odd or even\obj\Debug\net6.0\odd or even.vbproj.AssemblyReference.cache
+D:\programs\visual basic\odd or even\obj\Debug\net6.0\odd or even.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\odd or even\obj\Debug\net6.0\odd or even.AssemblyInfoInputs.cache
+D:\programs\visual basic\odd or even\obj\Debug\net6.0\odd or even.AssemblyInfo.vb
+D:\programs\visual basic\odd or even\obj\Debug\net6.0\odd or even.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\odd or even\obj\Debug\net6.0\odd or even.dll
+D:\programs\visual basic\odd or even\obj\Debug\net6.0\refint\odd or even.dll
+D:\programs\visual basic\odd or even\obj\Debug\net6.0\odd or even.pdb
+D:\programs\visual basic\odd or even\obj\Debug\net6.0\odd or even.genruntimeconfig.cache
+D:\programs\visual basic\odd or even\obj\Debug\net6.0\ref\odd or even.dll

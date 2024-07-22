@@ -1,0 +1,15 @@
+D:\programs\visual basic\stream reader and writer\obj\Debug\net6.0\stream reader and writer.vbproj.AssemblyReference.cache
+D:\programs\visual basic\stream reader and writer\obj\Debug\net6.0\stream reader and writer.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\stream reader and writer\obj\Debug\net6.0\stream reader and writer.AssemblyInfoInputs.cache
+D:\programs\visual basic\stream reader and writer\obj\Debug\net6.0\stream reader and writer.AssemblyInfo.vb
+D:\programs\visual basic\stream reader and writer\obj\Debug\net6.0\stream reader and writer.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\stream reader and writer\bin\Debug\net6.0\stream reader and writer.exe
+D:\programs\visual basic\stream reader and writer\bin\Debug\net6.0\stream reader and writer.deps.json
+D:\programs\visual basic\stream reader and writer\bin\Debug\net6.0\stream reader and writer.runtimeconfig.json
+D:\programs\visual basic\stream reader and writer\bin\Debug\net6.0\stream reader and writer.dll
+D:\programs\visual basic\stream reader and writer\bin\Debug\net6.0\stream reader and writer.pdb
+D:\programs\visual basic\stream reader and writer\obj\Debug\net6.0\stream reader and writer.dll
+D:\programs\visual basic\stream reader and writer\obj\Debug\net6.0\refint\stream reader and writer.dll
+D:\programs\visual basic\stream reader and writer\obj\Debug\net6.0\stream reader and writer.pdb
+D:\programs\visual basic\stream reader and writer\obj\Debug\net6.0\stream reader and writer.genruntimeconfig.cache
+D:\programs\visual basic\stream reader and writer\obj\Debug\net6.0\ref\stream reader and writer.dll

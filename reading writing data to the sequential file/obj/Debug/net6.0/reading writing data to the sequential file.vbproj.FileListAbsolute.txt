@@ -1,0 +1,15 @@
+D:\programs\visual basic\reading writing data to the sequential file\bin\Debug\net6.0\reading writing data to the sequential file.exe
+D:\programs\visual basic\reading writing data to the sequential file\bin\Debug\net6.0\reading writing data to the sequential file.deps.json
+D:\programs\visual basic\reading writing data to the sequential file\bin\Debug\net6.0\reading writing data to the sequential file.runtimeconfig.json
+D:\programs\visual basic\reading writing data to the sequential file\bin\Debug\net6.0\reading writing data to the sequential file.dll
+D:\programs\visual basic\reading writing data to the sequential file\bin\Debug\net6.0\reading writing data to the sequential file.pdb
+D:\programs\visual basic\reading writing data to the sequential file\obj\Debug\net6.0\reading writing data to the sequential file.vbproj.AssemblyReference.cache
+D:\programs\visual basic\reading writing data to the sequential file\obj\Debug\net6.0\reading writing data to the sequential file.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\reading writing data to the sequential file\obj\Debug\net6.0\reading writing data to the sequential file.AssemblyInfoInputs.cache
+D:\programs\visual basic\reading writing data to the sequential file\obj\Debug\net6.0\reading writing data to the sequential file.AssemblyInfo.vb
+D:\programs\visual basic\reading writing data to the sequential file\obj\Debug\net6.0\reading writing data to the sequential file.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\reading writing data to the sequential file\obj\Debug\net6.0\reading writing data to the sequential file.dll
+D:\programs\visual basic\reading writing data to the sequential file\obj\Debug\net6.0\refint\reading writing data to the sequential file.dll
+D:\programs\visual basic\reading writing data to the sequential file\obj\Debug\net6.0\reading writing data to the sequential file.pdb
+D:\programs\visual basic\reading writing data to the sequential file\obj\Debug\net6.0\reading writing data to the sequential file.genruntimeconfig.cache
+D:\programs\visual basic\reading writing data to the sequential file\obj\Debug\net6.0\ref\reading writing data to the sequential file.dll

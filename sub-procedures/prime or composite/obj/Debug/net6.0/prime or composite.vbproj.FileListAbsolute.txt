@@ -1,0 +1,15 @@
+D:\programs\visual basic\sub-procedures\prime or composite\obj\Debug\net6.0\prime or composite.vbproj.AssemblyReference.cache
+D:\programs\visual basic\sub-procedures\prime or composite\obj\Debug\net6.0\prime or composite.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\sub-procedures\prime or composite\obj\Debug\net6.0\prime or composite.AssemblyInfoInputs.cache
+D:\programs\visual basic\sub-procedures\prime or composite\obj\Debug\net6.0\prime or composite.AssemblyInfo.vb
+D:\programs\visual basic\sub-procedures\prime or composite\obj\Debug\net6.0\prime or composite.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\sub-procedures\prime or composite\bin\Debug\net6.0\prime or composite.exe
+D:\programs\visual basic\sub-procedures\prime or composite\bin\Debug\net6.0\prime or composite.deps.json
+D:\programs\visual basic\sub-procedures\prime or composite\bin\Debug\net6.0\prime or composite.runtimeconfig.json
+D:\programs\visual basic\sub-procedures\prime or composite\bin\Debug\net6.0\prime or composite.dll
+D:\programs\visual basic\sub-procedures\prime or composite\bin\Debug\net6.0\prime or composite.pdb
+D:\programs\visual basic\sub-procedures\prime or composite\obj\Debug\net6.0\prime or composite.dll
+D:\programs\visual basic\sub-procedures\prime or composite\obj\Debug\net6.0\refint\prime or composite.dll
+D:\programs\visual basic\sub-procedures\prime or composite\obj\Debug\net6.0\prime or composite.pdb
+D:\programs\visual basic\sub-procedures\prime or composite\obj\Debug\net6.0\prime or composite.genruntimeconfig.cache
+D:\programs\visual basic\sub-procedures\prime or composite\obj\Debug\net6.0\ref\prime or composite.dll

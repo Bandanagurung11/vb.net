@@ -1,0 +1,15 @@
+D:\programs\visual basic\function\sum of three\bin\Debug\net6.0\sum of three.exe
+D:\programs\visual basic\function\sum of three\bin\Debug\net6.0\sum of three.deps.json
+D:\programs\visual basic\function\sum of three\bin\Debug\net6.0\sum of three.runtimeconfig.json
+D:\programs\visual basic\function\sum of three\bin\Debug\net6.0\sum of three.dll
+D:\programs\visual basic\function\sum of three\bin\Debug\net6.0\sum of three.pdb
+D:\programs\visual basic\function\sum of three\obj\Debug\net6.0\sum of three.vbproj.AssemblyReference.cache
+D:\programs\visual basic\function\sum of three\obj\Debug\net6.0\sum of three.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\function\sum of three\obj\Debug\net6.0\sum of three.AssemblyInfoInputs.cache
+D:\programs\visual basic\function\sum of three\obj\Debug\net6.0\sum of three.AssemblyInfo.vb
+D:\programs\visual basic\function\sum of three\obj\Debug\net6.0\sum of three.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\function\sum of three\obj\Debug\net6.0\sum of three.dll
+D:\programs\visual basic\function\sum of three\obj\Debug\net6.0\refint\sum of three.dll
+D:\programs\visual basic\function\sum of three\obj\Debug\net6.0\sum of three.pdb
+D:\programs\visual basic\function\sum of three\obj\Debug\net6.0\sum of three.genruntimeconfig.cache
+D:\programs\visual basic\function\sum of three\obj\Debug\net6.0\ref\sum of three.dll

@@ -1,0 +1,15 @@
+D:\programs\visual basic\greatest number among three\bin\Debug\net6.0\greatest number among three.exe
+D:\programs\visual basic\greatest number among three\bin\Debug\net6.0\greatest number among three.deps.json
+D:\programs\visual basic\greatest number among three\bin\Debug\net6.0\greatest number among three.runtimeconfig.json
+D:\programs\visual basic\greatest number among three\bin\Debug\net6.0\greatest number among three.dll
+D:\programs\visual basic\greatest number among three\bin\Debug\net6.0\greatest number among three.pdb
+D:\programs\visual basic\greatest number among three\obj\Debug\net6.0\greatest number among three.vbproj.AssemblyReference.cache
+D:\programs\visual basic\greatest number among three\obj\Debug\net6.0\greatest number among three.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\greatest number among three\obj\Debug\net6.0\greatest number among three.AssemblyInfoInputs.cache
+D:\programs\visual basic\greatest number among three\obj\Debug\net6.0\greatest number among three.AssemblyInfo.vb
+D:\programs\visual basic\greatest number among three\obj\Debug\net6.0\greatest number among three.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\greatest number among three\obj\Debug\net6.0\greatest number among three.dll
+D:\programs\visual basic\greatest number among three\obj\Debug\net6.0\refint\greatest number among three.dll
+D:\programs\visual basic\greatest number among three\obj\Debug\net6.0\greatest number among three.pdb
+D:\programs\visual basic\greatest number among three\obj\Debug\net6.0\greatest number among three.genruntimeconfig.cache
+D:\programs\visual basic\greatest number among three\obj\Debug\net6.0\ref\greatest number among three.dll

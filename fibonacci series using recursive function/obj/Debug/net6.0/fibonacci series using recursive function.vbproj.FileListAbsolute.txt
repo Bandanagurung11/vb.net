@@ -1,0 +1,15 @@
+D:\programs\visual basic\fibonacci series using recursive function\obj\Debug\net6.0\fibonacci series using recursive function.vbproj.AssemblyReference.cache
+D:\programs\visual basic\fibonacci series using recursive function\obj\Debug\net6.0\fibonacci series using recursive function.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\fibonacci series using recursive function\obj\Debug\net6.0\fibonacci series using recursive function.AssemblyInfoInputs.cache
+D:\programs\visual basic\fibonacci series using recursive function\obj\Debug\net6.0\fibonacci series using recursive function.AssemblyInfo.vb
+D:\programs\visual basic\fibonacci series using recursive function\obj\Debug\net6.0\fibonacci series using recursive function.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\fibonacci series using recursive function\bin\Debug\net6.0\fibonacci series using recursive function.exe
+D:\programs\visual basic\fibonacci series using recursive function\bin\Debug\net6.0\fibonacci series using recursive function.deps.json
+D:\programs\visual basic\fibonacci series using recursive function\bin\Debug\net6.0\fibonacci series using recursive function.runtimeconfig.json
+D:\programs\visual basic\fibonacci series using recursive function\bin\Debug\net6.0\fibonacci series using recursive function.dll
+D:\programs\visual basic\fibonacci series using recursive function\bin\Debug\net6.0\fibonacci series using recursive function.pdb
+D:\programs\visual basic\fibonacci series using recursive function\obj\Debug\net6.0\fibonacci series using recursive function.dll
+D:\programs\visual basic\fibonacci series using recursive function\obj\Debug\net6.0\refint\fibonacci series using recursive function.dll
+D:\programs\visual basic\fibonacci series using recursive function\obj\Debug\net6.0\fibonacci series using recursive function.pdb
+D:\programs\visual basic\fibonacci series using recursive function\obj\Debug\net6.0\fibonacci series using recursive function.genruntimeconfig.cache
+D:\programs\visual basic\fibonacci series using recursive function\obj\Debug\net6.0\ref\fibonacci series using recursive function.dll

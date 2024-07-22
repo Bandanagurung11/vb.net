@@ -1,0 +1,15 @@
+D:\programs\visual basic\function\pallimdrome\bin\Debug\net6.0\pallimdrome.exe
+D:\programs\visual basic\function\pallimdrome\bin\Debug\net6.0\pallimdrome.deps.json
+D:\programs\visual basic\function\pallimdrome\bin\Debug\net6.0\pallimdrome.runtimeconfig.json
+D:\programs\visual basic\function\pallimdrome\bin\Debug\net6.0\pallimdrome.dll
+D:\programs\visual basic\function\pallimdrome\bin\Debug\net6.0\pallimdrome.pdb
+D:\programs\visual basic\function\pallimdrome\obj\Debug\net6.0\pallimdrome.vbproj.AssemblyReference.cache
+D:\programs\visual basic\function\pallimdrome\obj\Debug\net6.0\pallimdrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\function\pallimdrome\obj\Debug\net6.0\pallimdrome.AssemblyInfoInputs.cache
+D:\programs\visual basic\function\pallimdrome\obj\Debug\net6.0\pallimdrome.AssemblyInfo.vb
+D:\programs\visual basic\function\pallimdrome\obj\Debug\net6.0\pallimdrome.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\function\pallimdrome\obj\Debug\net6.0\pallimdrome.dll
+D:\programs\visual basic\function\pallimdrome\obj\Debug\net6.0\refint\pallimdrome.dll
+D:\programs\visual basic\function\pallimdrome\obj\Debug\net6.0\pallimdrome.pdb
+D:\programs\visual basic\function\pallimdrome\obj\Debug\net6.0\pallimdrome.genruntimeconfig.cache
+D:\programs\visual basic\function\pallimdrome\obj\Debug\net6.0\ref\pallimdrome.dll

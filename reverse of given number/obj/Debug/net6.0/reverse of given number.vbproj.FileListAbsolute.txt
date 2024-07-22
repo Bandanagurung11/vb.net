@@ -1,0 +1,15 @@
+D:\programs\visual basic\reverse of given number\bin\Debug\net6.0\reverse of given number.exe
+D:\programs\visual basic\reverse of given number\bin\Debug\net6.0\reverse of given number.deps.json
+D:\programs\visual basic\reverse of given number\bin\Debug\net6.0\reverse of given number.runtimeconfig.json
+D:\programs\visual basic\reverse of given number\bin\Debug\net6.0\reverse of given number.dll
+D:\programs\visual basic\reverse of given number\bin\Debug\net6.0\reverse of given number.pdb
+D:\programs\visual basic\reverse of given number\obj\Debug\net6.0\reverse of given number.vbproj.AssemblyReference.cache
+D:\programs\visual basic\reverse of given number\obj\Debug\net6.0\reverse of given number.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\reverse of given number\obj\Debug\net6.0\reverse of given number.AssemblyInfoInputs.cache
+D:\programs\visual basic\reverse of given number\obj\Debug\net6.0\reverse of given number.AssemblyInfo.vb
+D:\programs\visual basic\reverse of given number\obj\Debug\net6.0\reverse of given number.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\reverse of given number\obj\Debug\net6.0\reverse of given number.dll
+D:\programs\visual basic\reverse of given number\obj\Debug\net6.0\refint\reverse of given number.dll
+D:\programs\visual basic\reverse of given number\obj\Debug\net6.0\reverse of given number.pdb
+D:\programs\visual basic\reverse of given number\obj\Debug\net6.0\reverse of given number.genruntimeconfig.cache
+D:\programs\visual basic\reverse of given number\obj\Debug\net6.0\ref\reverse of given number.dll

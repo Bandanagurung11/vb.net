@@ -1,0 +1,15 @@
+D:\programs\visual basic\read and writing data to random file\bin\Debug\net6.0\read and writing data to random file.exe
+D:\programs\visual basic\read and writing data to random file\bin\Debug\net6.0\read and writing data to random file.deps.json
+D:\programs\visual basic\read and writing data to random file\bin\Debug\net6.0\read and writing data to random file.runtimeconfig.json
+D:\programs\visual basic\read and writing data to random file\bin\Debug\net6.0\read and writing data to random file.dll
+D:\programs\visual basic\read and writing data to random file\bin\Debug\net6.0\read and writing data to random file.pdb
+D:\programs\visual basic\read and writing data to random file\obj\Debug\net6.0\read and writing data to random file.vbproj.AssemblyReference.cache
+D:\programs\visual basic\read and writing data to random file\obj\Debug\net6.0\read and writing data to random file.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\read and writing data to random file\obj\Debug\net6.0\read and writing data to random file.AssemblyInfoInputs.cache
+D:\programs\visual basic\read and writing data to random file\obj\Debug\net6.0\read and writing data to random file.AssemblyInfo.vb
+D:\programs\visual basic\read and writing data to random file\obj\Debug\net6.0\read and writing data to random file.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\read and writing data to random file\obj\Debug\net6.0\read and writing data to random file.dll
+D:\programs\visual basic\read and writing data to random file\obj\Debug\net6.0\refint\read and writing data to random file.dll
+D:\programs\visual basic\read and writing data to random file\obj\Debug\net6.0\read and writing data to random file.pdb
+D:\programs\visual basic\read and writing data to random file\obj\Debug\net6.0\read and writing data to random file.genruntimeconfig.cache
+D:\programs\visual basic\read and writing data to random file\obj\Debug\net6.0\ref\read and writing data to random file.dll

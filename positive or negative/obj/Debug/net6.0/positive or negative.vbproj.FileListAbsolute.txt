@@ -1,0 +1,15 @@
+D:\programs\visual basic\positive or negative\bin\Debug\net6.0\positive or negative.exe
+D:\programs\visual basic\positive or negative\bin\Debug\net6.0\positive or negative.deps.json
+D:\programs\visual basic\positive or negative\bin\Debug\net6.0\positive or negative.runtimeconfig.json
+D:\programs\visual basic\positive or negative\bin\Debug\net6.0\positive or negative.dll
+D:\programs\visual basic\positive or negative\bin\Debug\net6.0\positive or negative.pdb
+D:\programs\visual basic\positive or negative\obj\Debug\net6.0\positive or negative.vbproj.AssemblyReference.cache
+D:\programs\visual basic\positive or negative\obj\Debug\net6.0\positive or negative.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\positive or negative\obj\Debug\net6.0\positive or negative.AssemblyInfoInputs.cache
+D:\programs\visual basic\positive or negative\obj\Debug\net6.0\positive or negative.AssemblyInfo.vb
+D:\programs\visual basic\positive or negative\obj\Debug\net6.0\positive or negative.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\positive or negative\obj\Debug\net6.0\positive or negative.dll
+D:\programs\visual basic\positive or negative\obj\Debug\net6.0\refint\positive or negative.dll
+D:\programs\visual basic\positive or negative\obj\Debug\net6.0\positive or negative.pdb
+D:\programs\visual basic\positive or negative\obj\Debug\net6.0\positive or negative.genruntimeconfig.cache
+D:\programs\visual basic\positive or negative\obj\Debug\net6.0\ref\positive or negative.dll

@@ -1,0 +1,15 @@
+D:\programs\visual basic\sub-procedures\sum of even number\bin\Debug\net6.0\sum of even number.exe
+D:\programs\visual basic\sub-procedures\sum of even number\bin\Debug\net6.0\sum of even number.deps.json
+D:\programs\visual basic\sub-procedures\sum of even number\bin\Debug\net6.0\sum of even number.runtimeconfig.json
+D:\programs\visual basic\sub-procedures\sum of even number\bin\Debug\net6.0\sum of even number.dll
+D:\programs\visual basic\sub-procedures\sum of even number\bin\Debug\net6.0\sum of even number.pdb
+D:\programs\visual basic\sub-procedures\sum of even number\obj\Debug\net6.0\sum of even number.vbproj.AssemblyReference.cache
+D:\programs\visual basic\sub-procedures\sum of even number\obj\Debug\net6.0\sum of even number.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\sub-procedures\sum of even number\obj\Debug\net6.0\sum of even number.AssemblyInfoInputs.cache
+D:\programs\visual basic\sub-procedures\sum of even number\obj\Debug\net6.0\sum of even number.AssemblyInfo.vb
+D:\programs\visual basic\sub-procedures\sum of even number\obj\Debug\net6.0\sum of even number.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\sub-procedures\sum of even number\obj\Debug\net6.0\sum of even number.dll
+D:\programs\visual basic\sub-procedures\sum of even number\obj\Debug\net6.0\refint\sum of even number.dll
+D:\programs\visual basic\sub-procedures\sum of even number\obj\Debug\net6.0\sum of even number.pdb
+D:\programs\visual basic\sub-procedures\sum of even number\obj\Debug\net6.0\sum of even number.genruntimeconfig.cache
+D:\programs\visual basic\sub-procedures\sum of even number\obj\Debug\net6.0\ref\sum of even number.dll

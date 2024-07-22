@@ -1,0 +1,15 @@
+D:\programs\visual basic\function\multiplication\bin\Debug\net6.0\multiplication.exe
+D:\programs\visual basic\function\multiplication\bin\Debug\net6.0\multiplication.deps.json
+D:\programs\visual basic\function\multiplication\bin\Debug\net6.0\multiplication.runtimeconfig.json
+D:\programs\visual basic\function\multiplication\bin\Debug\net6.0\multiplication.dll
+D:\programs\visual basic\function\multiplication\bin\Debug\net6.0\multiplication.pdb
+D:\programs\visual basic\function\multiplication\obj\Debug\net6.0\multiplication.vbproj.AssemblyReference.cache
+D:\programs\visual basic\function\multiplication\obj\Debug\net6.0\multiplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\function\multiplication\obj\Debug\net6.0\multiplication.AssemblyInfoInputs.cache
+D:\programs\visual basic\function\multiplication\obj\Debug\net6.0\multiplication.AssemblyInfo.vb
+D:\programs\visual basic\function\multiplication\obj\Debug\net6.0\multiplication.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\function\multiplication\obj\Debug\net6.0\multiplication.dll
+D:\programs\visual basic\function\multiplication\obj\Debug\net6.0\refint\multiplication.dll
+D:\programs\visual basic\function\multiplication\obj\Debug\net6.0\multiplication.pdb
+D:\programs\visual basic\function\multiplication\obj\Debug\net6.0\multiplication.genruntimeconfig.cache
+D:\programs\visual basic\function\multiplication\obj\Debug\net6.0\ref\multiplication.dll

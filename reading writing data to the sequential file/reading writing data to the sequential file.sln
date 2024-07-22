@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "reading writing data to the sequential file", "reading writing data to the sequential file.vbproj", "{4417E784-6B07-4B00-8460-A1FAE05CFFF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4417E784-6B07-4B00-8460-A1FAE05CFFF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4417E784-6B07-4B00-8460-A1FAE05CFFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4417E784-6B07-4B00-8460-A1FAE05CFFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4417E784-6B07-4B00-8460-A1FAE05CFFF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {697E2246-9521-4327-8BF4-D94512DEA579}
+	EndGlobalSection
+EndGlobal

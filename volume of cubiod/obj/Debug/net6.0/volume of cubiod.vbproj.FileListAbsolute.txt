@@ -1,0 +1,15 @@
+D:\programs\visual basic\volume of cubiod\bin\Debug\net6.0\volume of cubiod.exe
+D:\programs\visual basic\volume of cubiod\bin\Debug\net6.0\volume of cubiod.deps.json
+D:\programs\visual basic\volume of cubiod\bin\Debug\net6.0\volume of cubiod.runtimeconfig.json
+D:\programs\visual basic\volume of cubiod\bin\Debug\net6.0\volume of cubiod.dll
+D:\programs\visual basic\volume of cubiod\bin\Debug\net6.0\volume of cubiod.pdb
+D:\programs\visual basic\volume of cubiod\obj\Debug\net6.0\volume of cubiod.vbproj.AssemblyReference.cache
+D:\programs\visual basic\volume of cubiod\obj\Debug\net6.0\volume of cubiod.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\volume of cubiod\obj\Debug\net6.0\volume of cubiod.AssemblyInfoInputs.cache
+D:\programs\visual basic\volume of cubiod\obj\Debug\net6.0\volume of cubiod.AssemblyInfo.vb
+D:\programs\visual basic\volume of cubiod\obj\Debug\net6.0\volume of cubiod.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\volume of cubiod\obj\Debug\net6.0\volume of cubiod.dll
+D:\programs\visual basic\volume of cubiod\obj\Debug\net6.0\refint\volume of cubiod.dll
+D:\programs\visual basic\volume of cubiod\obj\Debug\net6.0\volume of cubiod.pdb
+D:\programs\visual basic\volume of cubiod\obj\Debug\net6.0\volume of cubiod.genruntimeconfig.cache
+D:\programs\visual basic\volume of cubiod\obj\Debug\net6.0\ref\volume of cubiod.dll

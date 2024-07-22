@@ -1,0 +1,15 @@
+D:\programs\visual basic\armstrong\bin\Debug\net6.0\armstrong.exe
+D:\programs\visual basic\armstrong\bin\Debug\net6.0\armstrong.deps.json
+D:\programs\visual basic\armstrong\bin\Debug\net6.0\armstrong.runtimeconfig.json
+D:\programs\visual basic\armstrong\bin\Debug\net6.0\armstrong.dll
+D:\programs\visual basic\armstrong\bin\Debug\net6.0\armstrong.pdb
+D:\programs\visual basic\armstrong\obj\Debug\net6.0\armstrong.vbproj.AssemblyReference.cache
+D:\programs\visual basic\armstrong\obj\Debug\net6.0\armstrong.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\armstrong\obj\Debug\net6.0\armstrong.AssemblyInfoInputs.cache
+D:\programs\visual basic\armstrong\obj\Debug\net6.0\armstrong.AssemblyInfo.vb
+D:\programs\visual basic\armstrong\obj\Debug\net6.0\armstrong.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\armstrong\obj\Debug\net6.0\armstrong.dll
+D:\programs\visual basic\armstrong\obj\Debug\net6.0\refint\armstrong.dll
+D:\programs\visual basic\armstrong\obj\Debug\net6.0\armstrong.pdb
+D:\programs\visual basic\armstrong\obj\Debug\net6.0\armstrong.genruntimeconfig.cache
+D:\programs\visual basic\armstrong\obj\Debug\net6.0\ref\armstrong.dll

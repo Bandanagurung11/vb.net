@@ -1,0 +1,15 @@
+D:\programs\visual basic\sub-procedures\sum of digit\obj\Debug\net6.0\sum of digit.vbproj.AssemblyReference.cache
+D:\programs\visual basic\sub-procedures\sum of digit\obj\Debug\net6.0\sum of digit.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\sub-procedures\sum of digit\obj\Debug\net6.0\sum of digit.AssemblyInfoInputs.cache
+D:\programs\visual basic\sub-procedures\sum of digit\obj\Debug\net6.0\sum of digit.AssemblyInfo.vb
+D:\programs\visual basic\sub-procedures\sum of digit\obj\Debug\net6.0\sum of digit.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\sub-procedures\sum of digit\bin\Debug\net6.0\sum of digit.exe
+D:\programs\visual basic\sub-procedures\sum of digit\bin\Debug\net6.0\sum of digit.deps.json
+D:\programs\visual basic\sub-procedures\sum of digit\bin\Debug\net6.0\sum of digit.runtimeconfig.json
+D:\programs\visual basic\sub-procedures\sum of digit\bin\Debug\net6.0\sum of digit.dll
+D:\programs\visual basic\sub-procedures\sum of digit\bin\Debug\net6.0\sum of digit.pdb
+D:\programs\visual basic\sub-procedures\sum of digit\obj\Debug\net6.0\sum of digit.dll
+D:\programs\visual basic\sub-procedures\sum of digit\obj\Debug\net6.0\refint\sum of digit.dll
+D:\programs\visual basic\sub-procedures\sum of digit\obj\Debug\net6.0\sum of digit.pdb
+D:\programs\visual basic\sub-procedures\sum of digit\obj\Debug\net6.0\sum of digit.genruntimeconfig.cache
+D:\programs\visual basic\sub-procedures\sum of digit\obj\Debug\net6.0\ref\sum of digit.dll

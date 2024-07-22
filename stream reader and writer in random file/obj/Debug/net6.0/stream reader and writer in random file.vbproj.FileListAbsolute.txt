@@ -1,0 +1,15 @@
+D:\programs\visual basic\stream reader and writer in random file\obj\Debug\net6.0\stream reader and writer in random file.vbproj.AssemblyReference.cache
+D:\programs\visual basic\stream reader and writer in random file\obj\Debug\net6.0\stream reader and writer in random file.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\stream reader and writer in random file\obj\Debug\net6.0\stream reader and writer in random file.AssemblyInfoInputs.cache
+D:\programs\visual basic\stream reader and writer in random file\obj\Debug\net6.0\stream reader and writer in random file.AssemblyInfo.vb
+D:\programs\visual basic\stream reader and writer in random file\obj\Debug\net6.0\stream reader and writer in random file.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\stream reader and writer in random file\bin\Debug\net6.0\stream reader and writer in random file.exe
+D:\programs\visual basic\stream reader and writer in random file\bin\Debug\net6.0\stream reader and writer in random file.deps.json
+D:\programs\visual basic\stream reader and writer in random file\bin\Debug\net6.0\stream reader and writer in random file.runtimeconfig.json
+D:\programs\visual basic\stream reader and writer in random file\bin\Debug\net6.0\stream reader and writer in random file.dll
+D:\programs\visual basic\stream reader and writer in random file\bin\Debug\net6.0\stream reader and writer in random file.pdb
+D:\programs\visual basic\stream reader and writer in random file\obj\Debug\net6.0\stream reader and writer in random file.dll
+D:\programs\visual basic\stream reader and writer in random file\obj\Debug\net6.0\refint\stream reader and writer in random file.dll
+D:\programs\visual basic\stream reader and writer in random file\obj\Debug\net6.0\stream reader and writer in random file.pdb
+D:\programs\visual basic\stream reader and writer in random file\obj\Debug\net6.0\stream reader and writer in random file.genruntimeconfig.cache
+D:\programs\visual basic\stream reader and writer in random file\obj\Debug\net6.0\ref\stream reader and writer in random file.dll

@@ -1,0 +1,15 @@
+D:\programs\visual basic\factorial using function\bin\Debug\net6.0\factorial using function.exe
+D:\programs\visual basic\factorial using function\bin\Debug\net6.0\factorial using function.deps.json
+D:\programs\visual basic\factorial using function\bin\Debug\net6.0\factorial using function.runtimeconfig.json
+D:\programs\visual basic\factorial using function\bin\Debug\net6.0\factorial using function.dll
+D:\programs\visual basic\factorial using function\bin\Debug\net6.0\factorial using function.pdb
+D:\programs\visual basic\factorial using function\obj\Debug\net6.0\factorial using function.vbproj.AssemblyReference.cache
+D:\programs\visual basic\factorial using function\obj\Debug\net6.0\factorial using function.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\factorial using function\obj\Debug\net6.0\factorial using function.AssemblyInfoInputs.cache
+D:\programs\visual basic\factorial using function\obj\Debug\net6.0\factorial using function.AssemblyInfo.vb
+D:\programs\visual basic\factorial using function\obj\Debug\net6.0\factorial using function.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\factorial using function\obj\Debug\net6.0\factorial using function.dll
+D:\programs\visual basic\factorial using function\obj\Debug\net6.0\refint\factorial using function.dll
+D:\programs\visual basic\factorial using function\obj\Debug\net6.0\factorial using function.pdb
+D:\programs\visual basic\factorial using function\obj\Debug\net6.0\factorial using function.genruntimeconfig.cache
+D:\programs\visual basic\factorial using function\obj\Debug\net6.0\ref\factorial using function.dll

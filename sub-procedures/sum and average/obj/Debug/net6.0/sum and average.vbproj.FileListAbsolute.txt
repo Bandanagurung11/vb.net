@@ -1,0 +1,15 @@
+D:\programs\visual basic\sub-procedures\sum and average\bin\Debug\net6.0\sum and average.exe
+D:\programs\visual basic\sub-procedures\sum and average\bin\Debug\net6.0\sum and average.deps.json
+D:\programs\visual basic\sub-procedures\sum and average\bin\Debug\net6.0\sum and average.runtimeconfig.json
+D:\programs\visual basic\sub-procedures\sum and average\bin\Debug\net6.0\sum and average.dll
+D:\programs\visual basic\sub-procedures\sum and average\bin\Debug\net6.0\sum and average.pdb
+D:\programs\visual basic\sub-procedures\sum and average\obj\Debug\net6.0\sum and average.vbproj.AssemblyReference.cache
+D:\programs\visual basic\sub-procedures\sum and average\obj\Debug\net6.0\sum and average.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\sub-procedures\sum and average\obj\Debug\net6.0\sum and average.AssemblyInfoInputs.cache
+D:\programs\visual basic\sub-procedures\sum and average\obj\Debug\net6.0\sum and average.AssemblyInfo.vb
+D:\programs\visual basic\sub-procedures\sum and average\obj\Debug\net6.0\sum and average.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\sub-procedures\sum and average\obj\Debug\net6.0\sum and average.dll
+D:\programs\visual basic\sub-procedures\sum and average\obj\Debug\net6.0\refint\sum and average.dll
+D:\programs\visual basic\sub-procedures\sum and average\obj\Debug\net6.0\sum and average.pdb
+D:\programs\visual basic\sub-procedures\sum and average\obj\Debug\net6.0\sum and average.genruntimeconfig.cache
+D:\programs\visual basic\sub-procedures\sum and average\obj\Debug\net6.0\ref\sum and average.dll

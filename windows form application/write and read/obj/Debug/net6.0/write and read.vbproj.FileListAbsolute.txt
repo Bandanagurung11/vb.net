@@ -1,0 +1,5 @@
+D:\programs\visual basic\windows form application\write and read\obj\Debug\net6.0\write and read.vbproj.AssemblyReference.cache
+D:\programs\visual basic\windows form application\write and read\obj\Debug\net6.0\write and read.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\windows form application\write and read\obj\Debug\net6.0\write and read.AssemblyInfoInputs.cache
+D:\programs\visual basic\windows form application\write and read\obj\Debug\net6.0\write and read.AssemblyInfo.vb
+D:\programs\visual basic\windows form application\write and read\obj\Debug\net6.0\write and read.vbproj.CoreCompileInputs.cache

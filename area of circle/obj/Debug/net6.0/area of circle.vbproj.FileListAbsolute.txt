@@ -1,0 +1,15 @@
+D:\programs\visual basic\area of circle\bin\Debug\net6.0\area of circle.exe
+D:\programs\visual basic\area of circle\bin\Debug\net6.0\area of circle.deps.json
+D:\programs\visual basic\area of circle\bin\Debug\net6.0\area of circle.runtimeconfig.json
+D:\programs\visual basic\area of circle\bin\Debug\net6.0\area of circle.dll
+D:\programs\visual basic\area of circle\bin\Debug\net6.0\area of circle.pdb
+D:\programs\visual basic\area of circle\obj\Debug\net6.0\area of circle.vbproj.AssemblyReference.cache
+D:\programs\visual basic\area of circle\obj\Debug\net6.0\area of circle.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\area of circle\obj\Debug\net6.0\area of circle.AssemblyInfoInputs.cache
+D:\programs\visual basic\area of circle\obj\Debug\net6.0\area of circle.AssemblyInfo.vb
+D:\programs\visual basic\area of circle\obj\Debug\net6.0\area of circle.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\area of circle\obj\Debug\net6.0\area of circle.dll
+D:\programs\visual basic\area of circle\obj\Debug\net6.0\refint\area of circle.dll
+D:\programs\visual basic\area of circle\obj\Debug\net6.0\area of circle.pdb
+D:\programs\visual basic\area of circle\obj\Debug\net6.0\area of circle.genruntimeconfig.cache
+D:\programs\visual basic\area of circle\obj\Debug\net6.0\ref\area of circle.dll

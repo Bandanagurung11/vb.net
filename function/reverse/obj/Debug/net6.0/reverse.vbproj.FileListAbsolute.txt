@@ -1,0 +1,15 @@
+D:\programs\visual basic\function\reverse\bin\Debug\net6.0\reverse.exe
+D:\programs\visual basic\function\reverse\bin\Debug\net6.0\reverse.deps.json
+D:\programs\visual basic\function\reverse\bin\Debug\net6.0\reverse.runtimeconfig.json
+D:\programs\visual basic\function\reverse\bin\Debug\net6.0\reverse.dll
+D:\programs\visual basic\function\reverse\bin\Debug\net6.0\reverse.pdb
+D:\programs\visual basic\function\reverse\obj\Debug\net6.0\reverse.vbproj.AssemblyReference.cache
+D:\programs\visual basic\function\reverse\obj\Debug\net6.0\reverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\function\reverse\obj\Debug\net6.0\reverse.AssemblyInfoInputs.cache
+D:\programs\visual basic\function\reverse\obj\Debug\net6.0\reverse.AssemblyInfo.vb
+D:\programs\visual basic\function\reverse\obj\Debug\net6.0\reverse.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\function\reverse\obj\Debug\net6.0\reverse.dll
+D:\programs\visual basic\function\reverse\obj\Debug\net6.0\refint\reverse.dll
+D:\programs\visual basic\function\reverse\obj\Debug\net6.0\reverse.pdb
+D:\programs\visual basic\function\reverse\obj\Debug\net6.0\reverse.genruntimeconfig.cache
+D:\programs\visual basic\function\reverse\obj\Debug\net6.0\ref\reverse.dll

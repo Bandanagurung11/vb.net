@@ -1,0 +1,15 @@
+D:\programs\visual basic\celcius into f\bin\Debug\net6.0\celcius into f.exe
+D:\programs\visual basic\celcius into f\bin\Debug\net6.0\celcius into f.deps.json
+D:\programs\visual basic\celcius into f\bin\Debug\net6.0\celcius into f.runtimeconfig.json
+D:\programs\visual basic\celcius into f\bin\Debug\net6.0\celcius into f.dll
+D:\programs\visual basic\celcius into f\bin\Debug\net6.0\celcius into f.pdb
+D:\programs\visual basic\celcius into f\obj\Debug\net6.0\celcius into f.vbproj.AssemblyReference.cache
+D:\programs\visual basic\celcius into f\obj\Debug\net6.0\celcius into f.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\celcius into f\obj\Debug\net6.0\celcius into f.AssemblyInfoInputs.cache
+D:\programs\visual basic\celcius into f\obj\Debug\net6.0\celcius into f.AssemblyInfo.vb
+D:\programs\visual basic\celcius into f\obj\Debug\net6.0\celcius into f.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\celcius into f\obj\Debug\net6.0\celcius into f.dll
+D:\programs\visual basic\celcius into f\obj\Debug\net6.0\refint\celcius into f.dll
+D:\programs\visual basic\celcius into f\obj\Debug\net6.0\celcius into f.pdb
+D:\programs\visual basic\celcius into f\obj\Debug\net6.0\celcius into f.genruntimeconfig.cache
+D:\programs\visual basic\celcius into f\obj\Debug\net6.0\ref\celcius into f.dll

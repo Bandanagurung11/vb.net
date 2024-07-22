@@ -1,0 +1,15 @@
+D:\programs\visual basic\area of 4 walls\bin\Debug\net6.0\area of 4 walls.exe
+D:\programs\visual basic\area of 4 walls\bin\Debug\net6.0\area of 4 walls.deps.json
+D:\programs\visual basic\area of 4 walls\bin\Debug\net6.0\area of 4 walls.runtimeconfig.json
+D:\programs\visual basic\area of 4 walls\bin\Debug\net6.0\area of 4 walls.dll
+D:\programs\visual basic\area of 4 walls\bin\Debug\net6.0\area of 4 walls.pdb
+D:\programs\visual basic\area of 4 walls\obj\Debug\net6.0\area of 4 walls.vbproj.AssemblyReference.cache
+D:\programs\visual basic\area of 4 walls\obj\Debug\net6.0\area of 4 walls.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\area of 4 walls\obj\Debug\net6.0\area of 4 walls.AssemblyInfoInputs.cache
+D:\programs\visual basic\area of 4 walls\obj\Debug\net6.0\area of 4 walls.AssemblyInfo.vb
+D:\programs\visual basic\area of 4 walls\obj\Debug\net6.0\area of 4 walls.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\area of 4 walls\obj\Debug\net6.0\area of 4 walls.dll
+D:\programs\visual basic\area of 4 walls\obj\Debug\net6.0\refint\area of 4 walls.dll
+D:\programs\visual basic\area of 4 walls\obj\Debug\net6.0\area of 4 walls.pdb
+D:\programs\visual basic\area of 4 walls\obj\Debug\net6.0\area of 4 walls.genruntimeconfig.cache
+D:\programs\visual basic\area of 4 walls\obj\Debug\net6.0\ref\area of 4 walls.dll
